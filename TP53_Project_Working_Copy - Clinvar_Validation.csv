@@ -1,0 +1,35 @@
+Variant_ID,ClinVar_Classification,Review_Status,Condition,ClinVar_Accession,Last_Evaluated,AlphaMissense_Class,AlphaMissense_Score,CADD_PHRED,REVEL,SIFT,PolyPhen,genomAD_AF,Notes
+NM_000546.6:c.829T>C,Uncertain significance,3 stars (expert panel),Li-Fraumeni syndrome,VCV000421804.13,"Dec 4, 2025","	
+Pathogenic Strong",0.9996,28,-,deleterious(0),-,0.000001368,AlphaMissense Pathogenic Strong (0.9996) | CADD 28 | extremely rare (gnomAD AF ~0) | DNA-binding domain candidate LP
+NM_000546.6:c.402T>G,Uncertain significance,1 star (single submitter),Li-Fraumeni syndrome,VCV001018290.29,"Apr 21, 2021","	
+Pathogenic Strong",0.9996,21.2,-,deleterious(0),-,,AlphaMissense Pathogenic Strong (0.9996) | high CADD | very rare | no functional data
+NM_000546.6:c.720T>G,Uncertain significance,2 stars (multiple submitters),Li-Fraumeni syndrome; not provided,VCV000458559.10,"Sep 1, 2022; Jan 11, 2024",Pathogenic Strong,0.9995,23.8,-,deleterious(0),-,0.0000006841,AlphaMissense Pathogenic Strong | REVEL + SIFT deleterious | rare | Li-Fraumeni associated
+NM_000546.6:c.720T>A,Uncertain significance,2 stars (multiple submitters),Li-Fraumeni syndrome; Hereditary cancer-predisposing syndrome,VCV001504304.9,"Jun 23, 2025; Mar 9, 2023",Pathogenic Strong,0.9995,22.5,-,deleterious(0),-,,AlphaMissense Pathogenic Strong | high predictors | rare | same codon as previous
+NM_000546.6:c.401T>C,Uncertain significance,1 star (single submitter),Li-Fraumeni syndrome,VCV001519634.8,"Feb 24, 2024","	
+Pathogenic Strong",0.9992,26.3,-,deleterious(0),-,,AlphaMissense Pathogenic Strong | CADD high | rare | DNA-binding domain
+NM_000546.6:c.730G>C,Uncertain significance,1 star (single submitter),Li-Fraumeni syndrome,VCV003634428.2,"Apr 4, 2024","	
+Pathogenic Strong",0.9989,27.2,-,deleterious(0),-,0.0000006841,AlphaMissense Pathogenic Strong | strong in-silico support | rare
+NM_000546.6:c.581T>C,Uncertain significance,1 star (single submitter),Li-Fraumeni syndrome,VCV000376635.12,"Sep 5, 2024","	
+Pathogenic Strong",0.9989,27.9,-,deleterious(0),-,,AlphaMissense Pathogenic Strong | CADD ~28 | rare | multiple conditions listed
+NM_000546.6:c.326T>C,Uncertain significance,2 stars (multiple submitters),Li-Fraumeni syndrome; Li-Fraumeni syndrome 1; Hereditary cancer-predisposing syndrome,VCV000423970.9,"Jun 15, 2023; Jun 18, 2022; Jun 18, 2022",Pathogenic Strong,0.9989,26.5,-,deleterious(0),-,,AlphaMissense Pathogenic Strong | high scores | rare
+NM_000546.6:c.721T>C,Uncertain significance,1 star (single submitter),Ovarian neoplasm; Li-Fraumeni syndrome,VCV000376664.15,"Dec 1, 2018; Oct 21, 2022",Pathogenic Strong,0.9981,25.4,-,deleterious(0),-,,AlphaMissense Pathogenic Strong | deleterious by SIFT/PolyPhen | rare
+NM_000546.6:c.647T>A,Uncertain significance,2 stars (multiple submitters),Hereditary cancer-predisposing syndrome; Li-Fraumeni syndrome,VCV000376672.6,"Feb 9, 2017; Sep 27, 2024","	
+Pathogenic Strong",0.9979,29.7,-,deleterious(0),-,,AlphaMissense Pathogenic Strong | high CADD/REVEL | rare | hereditary cancer predisposition
+NM_000546.6:c.831T>G,Uncertain significance,2 stars (multiple submitters),Hereditary cancer-predisposing syndrome; Li-Fraumeni syndrome,VCV001762926.4,"Sep 11, 2020; Mar 29, 2025",Pathogenic Strong,0.9979,24.3,-,deleterious(0.02),-,0.0000006841,AlphaMissense Pathogenic Strong | strong predictors | rare
+NM_000546.6:c.361T>C,Uncertain significance,2 stars (multiple submitters),Li-Fraumeni syndrome; Hereditary cancer-predisposing syndrome,VCV000854451.14,"Jun 28, 2024; Apr 3, 2026","	
+Pathogenic Strong",0.9975,25.6,-,deleterious(0),-,,AlphaMissense Pathogenic Strong | high scores | rare
+NM_000546.6:c.359A>T,Uncertain significance,2 stars (multiple submitters),Hereditary cancer-predisposing syndrome,VCV000917693.3,"Mar 24, 2025",Pathogenic Strong,0.9969,26,-,deleterious(0),-,,AlphaMissense Pathogenic Strong | CADD high | rare 
+NM_000546.6:c.428T>A,Uncertain significance,0 stars No assertion criteria provided,"Prostate cancer, hereditary, 1",VCV002687706.1,"Jan 1, 2024","	
+Pathogenic Strong",0.9969,24.7,-,deleterious(0),-,,0 stars in ClinVar | AlphaMissense Pathogenic Strong | rare | prostate cancer / LFS
+NM_000546.6:c.356C>A,Uncertain significance,2 stars (multiple submitters),Hereditary cancer-predisposing syndrome; Li-Fraumeni syndrome,VCV001732774.5,"Apr 3, 2026; Aug 28, 2024","	
+Pathogenic Strong",0.9957,26.8,-,deleterious(0.01),-,,AlphaMissense Pathogenic Strong | high scores | rare
+NM_000546.6:c.614A>C,Uncertain significance,1 star (single submitters),Li-Fraumeni syndrome,VCV003634430.3,"Jun 5, 2024","	
+Pathogenic Strong",0.9955,25.5,-,deleterious(0),,,AlphaMissense Pathogenic Strong | high CADD | rare 
+NM_000546.6:c.989T>C,Uncertain significance,1 star (single submitter),Li-Fraumeni syndrome,VCV000651580.9,"Oct 9, 2018","	
+Pathogenic Strong",0.9949,25.6,-,deleterious(0),-,,"AlphaMissense Pathogenic Strong | high predictors | rare | no functional data"
+NM_000546.6:c.488A>C,Uncertain significance,1 star (single submitter),Li-Fraumeni syndrome,VCV002757988.3,"Jul 8, 2025","	
+Pathogenic Strong",0.9949,22.9,-,deleterious(0),-,0.000000684,AlphaMissense Pathogenic Strong | CADD high | rare
+NM_000546.6:c.767C>A,Uncertain significance,1 star (single submitter),Li-Fraumeni syndrome,VCV002826159.3,"Jan 6, 2023","	
+Pathogenic Strong",0.9946,25.8,-,deleterious(0),-,,AlphaMissense Pathogenic Strong | strong in-silico | rare | TP53-related disorder
+NM_000546.6:c.358A>C,Uncertain significance,2 stars (multiple submitters),Li-Fraumeni syndrome; Hereditary cancer-predisposing syndrome; Li-Fraumeni syndrome 1; TP53-related disorder,VCV000423255.19,"        Feb 5, 2020; Jun 18, 2022; Jun 18, 2022; Jun 13, 2023","	
+Pathogenic Strong",0.9942,25.1,-,deleterious(0),-,,AlphaMissense Pathogenic Strong | high scores | rare | multiple conditions
